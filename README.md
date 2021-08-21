@@ -1,6 +1,7 @@
 ### Hi there 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-yuzuto&theme=vue)
-
+リポジトリの検索バーに以下を入れると、その分野のリポジトリを見つけることができます。  
+__Basics_of_machine_learning__: 数学的要素が強い理論的な機械学習を実装したもの。  
+__Tensorflow_and_Keras__: TensorflowやKerasを利用して実装したもの。
 
 <!--
 **n-yuzuto/n-yuzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
