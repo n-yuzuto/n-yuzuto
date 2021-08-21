@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=n-yuzuto)](https://github.com/n-yututo/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-yuzuto&theme=vue)
 
 
 <!--
