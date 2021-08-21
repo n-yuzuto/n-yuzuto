@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-yuzuto)](https://github.com/n-yuzuto/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=n-yuzuto)](https://github.com/n-yututo/github-profile-trophy)
+
 
 <!--
 **n-yuzuto/n-yuzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
