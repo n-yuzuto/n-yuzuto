@@ -6,7 +6,7 @@
 __Basics_of_machine_learning__: 数学的要素が強い理論的な機械学習を実装したもの。  
 __Tensorflow_and_Keras__: TensorflowやKerasを利用して実装したもの。
 
-![](best_image.jpg)
+![生成したポケモン例](best_image.jpg)
 <!--
 **n-yuzuto/n-yuzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
