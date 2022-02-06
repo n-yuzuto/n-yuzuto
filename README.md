@@ -1,10 +1,15 @@
 ### Hi there 👋
+Here is my linkedin account.
+[linked in account](https://www.linkedin.com/in/%E6%9F%9A%E6%96%97-%E4%B8%AD%E5%B3%B6-694299213/).  
+
 I'm studying machine learning and generating Pokémon.  
 I also like virtual currency, Ethereum. I'm also a rare Solidity engineer. [Output example]: https://github.com/enpitut2021/ramen-contracts
 
 You can find repositories in this field by entering the following in the repository search bar  
 __Basics_of_machine_learning__: implementations of theoretical machine learning with a strong mathematical component.  
 __Tensorflow_and_Keras__: Implementations using Tensorflow or Keras.
+
+[linked in account](https://www.linkedin.com/in/%E6%9F%9A%E6%96%97-%E4%B8%AD%E5%B3%B6-694299213/).  
 
 機械学習を勉強したり、ポケモンを生成したりしています。  
 仮想通貨、Ethereumも好きです。珍しいSolidityエンジニアでもあります。[Output例]: https://github.com/enpitut2021/ramen-contracts
