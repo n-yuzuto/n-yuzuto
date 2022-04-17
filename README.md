@@ -26,6 +26,7 @@ Youtubeのアカウントはこちらです。
 __Basics_of_machine_learning__: 数学的要素が強い理論的な機械学習を実装したもの。  
 __Tensorflow_and_Keras__: TensorflowやKerasを利用して実装したもの。
 
+僕が生成したポケモン達 (Pokémon I generated)
 ![生成したポケモン例](stylegan2-generate-pokemon.png)
 
 <!--
