@@ -1,6 +1,6 @@
 ### Hi there 👋
 Here is my linkedin account.  
-[linked in account](https://www.linkedin.com/in/%E6%9F%9A%E6%96%97-%E4%B8%AD%E5%B3%B6-694299213/).  
+[linked in account](https://www.linkedin.com/in/yuto-nakashima-694299213/).  
 
 Here is mu youtube account.  
 [youtube account](https://www.youtube.com/channel/UCL86DvmiKyfVfws7M9Y2t2Q)
@@ -14,7 +14,7 @@ __Tensorflow_and_Keras__: Implementations using Tensorflow or Keras.
 
 【日本語】.  
 Linkedinのアカウントはこちらです。  
-[linked in account](https://www.linkedin.com/in/%E6%9F%9A%E6%96%97-%E4%B8%AD%E5%B3%B6-694299213/).  
+[linked in account](https://www.linkedin.com/in/yuto-nakashima-694299213/).  
 Youtubeのアカウントはこちらです。   
 [youtube account](https://www.youtube.com/channel/UCL86DvmiKyfVfws7M9Y2t2Q).  
 
